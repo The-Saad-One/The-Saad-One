@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Saad from Morocco<br><br>- 🔭  📚 I'm currently learning peogramation <br>- ⚡  I go to MSO</p>
+<p align="left">I'm Saad from Morocco<br><br>- 🔭  📚 I'm currently learning programation <br>- ⚡  I go to MSO</p>
 
 ###
 
